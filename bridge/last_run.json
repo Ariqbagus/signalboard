@@ -1,0 +1,53 @@
+[
+  {
+    "signal": {
+      "asset": "BTC/USDT",
+      "direction": "long",
+      "refPrice": "60706.20",
+      "note": "24h momentum +2.31% (bridge example signal)"
+    },
+    "txHash": null,
+    "returnCode": 0,
+    "outputTail": [
+      "TOTAL TX COST:  286400ugnot",
+      "EVENTS:     [{\"type\":\"SignalPosted\",\"attrs\":[{\"key\":\"SignalID\",\"value\":\"1\"},{\"key\":\"Asset\",\"value\":\"BTC/USDT\"},{\"key\":\"Direction\",\"value\":\"long\"}],\"pkg_path\":\"gno.land/r/g18hk5n6qmgtxqlljy5athr3u3xg669sqayrfv5z/signalboard\"},{\"bytes_delta\":2764,\"fee_delta\":{\"denom\":\"ugnot\",\"amount\":276400},\"pkg_path\":\"gno.land/r/g18hk5n6qmgtxqlljy5athr3u3xg669sqayrfv5z/signalboard\"}]",
+      "INFO:       ",
+      "TX HASH:    Se2I++uY6ta91W9LTpuNnYvbvdr8lvdf42N2EV1LGD4=",
+      "Enter password."
+    ]
+  },
+  {
+    "signal": {
+      "asset": "ETH/USDT",
+      "direction": "long",
+      "refPrice": "1700.02",
+      "note": "24h momentum +2.27% (bridge example signal)"
+    },
+    "txHash": null,
+    "returnCode": 0,
+    "outputTail": [
+      "TOTAL TX COST:  150000ugnot",
+      "EVENTS:     [{\"type\":\"SignalPosted\",\"attrs\":[{\"key\":\"SignalID\",\"value\":\"2\"},{\"key\":\"Asset\",\"value\":\"ETH/USDT\"},{\"key\":\"Direction\",\"value\":\"long\"}],\"pkg_path\":\"gno.land/r/g18hk5n6qmgtxqlljy5athr3u3xg669sqayrfv5z/signalboard\"},{\"bytes_delta\":1400,\"fee_delta\":{\"denom\":\"ugnot\",\"amount\":140000},\"pkg_path\":\"gno.land/r/g18hk5n6qmgtxqlljy5athr3u3xg669sqayrfv5z/signalboard\"}]",
+      "INFO:       ",
+      "TX HASH:    yHMvnkmJXOeXU4QaatzX53yUFN7bQ12dogjzWcqCTE0=",
+      "Enter password."
+    ]
+  },
+  {
+    "signal": {
+      "asset": "SOL/USDT",
+      "direction": "long",
+      "refPrice": "70.88",
+      "note": "24h momentum +2.37% (bridge example signal)"
+    },
+    "txHash": null,
+    "returnCode": 0,
+    "outputTail": [
+      "TOTAL TX COST:  148800ugnot",
+      "EVENTS:     [{\"type\":\"SignalPosted\",\"attrs\":[{\"key\":\"SignalID\",\"value\":\"3\"},{\"key\":\"Asset\",\"value\":\"SOL/USDT\"},{\"key\":\"Direction\",\"value\":\"long\"}],\"pkg_path\":\"gno.land/r/g18hk5n6qmgtxqlljy5athr3u3xg669sqayrfv5z/signalboard\"},{\"bytes_delta\":1388,\"fee_delta\":{\"denom\":\"ugnot\",\"amount\":138800},\"pkg_path\":\"gno.land/r/g18hk5n6qmgtxqlljy5athr3u3xg669sqayrfv5z/signalboard\"}]",
+      "INFO:       ",
+      "TX HASH:    Q292kDnk9u7Va6H78EF224/9ftJyKU7pVdrAgN/wa+0=",
+      "Enter password."
+    ]
+  }
+]
